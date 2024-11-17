@@ -1,0 +1,12 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="TrashSimple" clip-path="url(#clip0_55_2019)">
+<path id="Vector" d="M23.6251 6.125H4.37509" stroke="black" stroke-width="1.74283" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M9.62509 2.625H18.3751" stroke="black" stroke-width="1.74283" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M21.8751 6.125V22.75C21.8751 22.9821 21.7829 23.2046 21.6188 23.3687C21.4547 23.5328 21.2322 23.625 21.0001 23.625H7.00009C6.76803 23.625 6.54547 23.5328 6.38137 23.3687C6.21728 23.2046 6.12509 22.9821 6.12509 22.75V6.125" stroke="black" stroke-width="1.74283" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_55_2019">
+<rect width="28" height="28" fill="white"/>
+</clipPath>
+</defs>
+</svg>
